@@ -4,4 +4,6 @@
 sentence = input("Enter a sentence: ").split()
 
 #len() method to return the number of words
+count = len(sentence)
+
 #prints the number of words
