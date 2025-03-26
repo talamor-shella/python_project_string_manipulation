@@ -4,3 +4,4 @@
 fullname = input("Enter your fullname: ").upper()
 
 #prints the user input in capital case
+print(f"Your full name is: {fullname}")
