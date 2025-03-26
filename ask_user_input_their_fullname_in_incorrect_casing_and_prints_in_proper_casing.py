@@ -4,3 +4,4 @@
 fullname = input("Enter your fullname: ").title()
 
 #prints the user input in proper case
+print(f"Your fullname is: {fullname}")
