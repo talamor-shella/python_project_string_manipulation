@@ -7,3 +7,4 @@ sentence = input("Enter a sentence: ").split()
 count = len(sentence)
 
 #prints the number of words
+print(f"The number of words is: {count}")
