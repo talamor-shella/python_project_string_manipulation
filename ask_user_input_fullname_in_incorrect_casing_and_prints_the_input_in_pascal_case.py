@@ -4,6 +4,7 @@
 fullname = input("Enter your fullname: ").title()
 
 #use replace method to remove the spaces
-pascal_method = fullname.replace(" ","")
+pascal_case = fullname.replace(" ","")
 
 #prints the input in pascal case
+print(f"Your fullname is(in pascal case): {pascal_case}")
