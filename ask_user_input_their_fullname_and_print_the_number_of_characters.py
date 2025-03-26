@@ -4,4 +4,6 @@
 fullname = input("Enter your fullname: ").strip()
 
 #len() to return number of characters
+count = len(fullname)
+
 #prints the number of characters
