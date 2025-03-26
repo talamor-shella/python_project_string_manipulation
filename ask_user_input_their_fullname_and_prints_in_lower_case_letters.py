@@ -4,3 +4,4 @@
 fullname = input("Enter your fullname: ").lower()
 
 #prints the input in lower case
+print(f"Your full name is: {fullname}")
