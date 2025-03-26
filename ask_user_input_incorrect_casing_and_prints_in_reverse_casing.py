@@ -4,3 +4,4 @@
 fullname = input("Enter your fullname: ").swapcase()
 
 #prints in reverse case 
+print(f"Your fullname is: {fullname}")
