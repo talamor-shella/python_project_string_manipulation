@@ -4,3 +4,4 @@
 fullname = input("Enter your fullname: ").lstrip()
 
 #print the user input 
+print(f"Your fullname is: {fullname}")
